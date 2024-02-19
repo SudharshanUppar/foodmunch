@@ -1,0 +1,106 @@
+
+.fm-logo{
+    height: 90px;
+    width: 90px;
+}
+.nav-title{
+    color: #4909e0;
+    font-family: "roboto";
+}
+.banner-bg-container{
+    background-image: url("https://www.shutterstock.com/image-photo/dum-handi-chicken-biryani-prepared-600nw-2000023562.jpg");
+    background-size: cover; 
+    height: 100vh;
+}
+.banner-heading{
+    color: white;
+    font-weight: 300;
+    font-size:50px;
+    font-family: "roboto";
+}
+.banner-caption{
+    color: white;
+    font-weight: 100;
+    font-size:30px;
+    font-family: "roboto";
+}
+.banner-button{
+    height: 50px;
+    width: 130px;
+    background-color: #e009dd;
+    color: beige;
+    border-style: hidden;
+    border-radius: 15px;
+    margin-right: px;
+}
+.wcu-section{
+    background-color: #c3d8eb;
+
+}
+.wcu-heading{
+    font-family: "roboto";
+}
+.wcu-description{
+    font-size: 18px;
+    font-family: "roboto";
+}
+.wcu-card{
+    background-color: #ebeff2;
+    text-align: center;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #43a0e6;
+}
+.wcu-card-img{
+    border-radius: 18px;
+    height: 9opx;
+    width:110px;
+    margin-top:6px;
+}
+.wcu-card-heading{
+    font-size: 20px;
+
+}
+.offer{
+    font-size: 20px;
+    font-style: italic;
+    font-family: "roboto";
+    font-weight:40;
+}
+.menu-list{
+    background-color: #e1ebe6;
+    
+}
+.menu-card1{
+  text-align: center;
+}
+.menu-img1{
+    height: 220px;
+    width: 230px;
+    border-radius: 60px;
+}
+.menu-list-heading{
+    margin-top: 10px;
+    color: #191c1b;
+    font-size: 20px;
+}
+.fresh-food{
+    background-color: rgb(192, 212, 193);
+    
+}
+.fresh-food1{
+    background-color: rgb(230, 240, 231);
+    
+}
+.fresh-food-button{
+    height: 50px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.payment-card-img{
+    height: 60px;
+}
+.follow-us-logo{
+    height: 100px;
+}
